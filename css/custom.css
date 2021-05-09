@@ -233,3 +233,14 @@ body {
 	flex-direction: row;
 	align-content: center;
 }
+
+.contactframe {
+	display: flex;
+    flex-direction: column;
+	justify-content: left;
+} 
+
+.contact {
+	align-self: flex-end;
+	justify-self: flex-end;
+}

@@ -25,6 +25,17 @@ body {
 	}
 }
 
+#vidoverlay {
+	background-color: black;
+	opacity: 50%;
+	z-index: -4;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100vh;
+}
+
 #left {
 	padding-top: 60px;
 	z-index: 3;

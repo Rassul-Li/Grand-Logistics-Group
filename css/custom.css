@@ -27,7 +27,7 @@ body {
 
 #vidoverlay {
 	background-color: black;
-	opacity: 50%;
+	opacity: 40%;
 	z-index: -4;
 	position: fixed;
 	right: 0;
